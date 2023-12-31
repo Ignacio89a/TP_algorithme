@@ -1,0 +1,6 @@
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/obj/Debug/2023-12-29_Menu.csproj.AssemblyReference.cache
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/obj/Debug/2023-12-29_Menu.csproj.CoreCompileInputs.cache
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/bin/Debug/_2023_12_29_Menu.exe
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/bin/Debug/_2023_12_29_Menu.pdb
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/obj/Debug/_2023_12_29_Menu.exe
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/2023-12-29_Menu/obj/Debug/_2023_12_29_Menu.pdb
