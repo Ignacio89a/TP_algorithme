@@ -1,0 +1,6 @@
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/bin/Debug/codeJose.exe
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/bin/Debug/codeJose.pdb
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/obj/Debug/codeJose.csproj.AssemblyReference.cache
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/obj/Debug/codeJose.csproj.CoreCompileInputs.cache
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/obj/Debug/codeJose.exe
+/home/david/BoisdeBoulogne/C#_projects/TP_algorithme/2023-12-29_TP_Algoritmes/codeJose/obj/Debug/codeJose.pdb
